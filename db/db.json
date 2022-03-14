@@ -1,7 +1,7 @@
 [
   {
-    "title": "Welcome to Noted!",
-    "text": "Noted is an application that allows you to write, save, and delete notes.",
+    "title": "Welcome to Note Taker!",
+    "text": "Note Taker is an application that allows you to write, save, and delete notes. Clicking on the + allows you to create a new note. Once you have entered the Title and Text of your note clickin on the 'save icon' saves your note. To delete a note, click on the 'trash icon'.",
     "id": "0"
   }
 ]
