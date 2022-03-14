@@ -26,7 +26,7 @@ To install, first clone the repository from GitHub and then install Node. Instal
 * Click on the trash icon to delete a saved note
 
 The final index.html should look similar to:
-![Image of website](https://ngranzow.github.io/noted/assets/images/Note-Taker.png)
+![Image of website](https://ngranzow.github.io/noted/assets/images/Note_Taker.png)
 
 ## License 
 To read the ISC license click [here](https://opensource.org/licenses/ISC)
