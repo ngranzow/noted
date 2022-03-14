@@ -25,7 +25,7 @@ To install, first clone the repository from GitHub and then install Node. Instal
 * Click on the + to start a new note when a saved note is displayed
 * Click on the trash icon to delete a saved note
 
-The final index.html should look similar to:
+The site should look similar to:
 ![Image of website](https://ngranzow.github.io/noted/assets/images/Note_Taker.png)
 
 ## License 
