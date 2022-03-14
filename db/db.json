@@ -1,7 +1,7 @@
 [
   {
-    "title": "Test Title",
-    "text": "Test text",
-    "id": 1234567
+    "title": "Welcome to Noted!",
+    "text": "Noted is an application that allows you to write, save, and delete notes.",
+    "id": "0"
   }
 ]
